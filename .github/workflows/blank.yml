@@ -1,0 +1,7 @@
+from dotenv import load_dotenv
+
+load_dotenv()
+
+BOT_TOKEN = os.getenv('MTIxNzUxNDUyODQyNjgxOTgwNQ.GBdFsV.VzXNob-RMf8EidiZ910OBFGT3Vw5jJ1yQUJEWg')
+VOICE_CHANNEL_ID = os.getenv('1205299879006445593')
+TEXT_CHANNEL_ID = os.getenv('1217524412341813288')
